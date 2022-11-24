@@ -26,6 +26,7 @@
 <p align="center">
   <a href="https://www.buymeacoffee.com/walissonsoares" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 </p>
-![imagem_2022-11-23_225241796](https://user-images.githubusercontent.com/26144781/203676483-21375da2-2b11-44d0-9114-c4c8731558be.png)
 
 ![torredehanoi](https://user-images.githubusercontent.com/26144781/203435663-a62caa3b-c50c-4b81-ab8f-33fad5327212.png)
+
+![torredehanoi2](https://user-images.githubusercontent.com/26144781/203676560-365abbd3-0073-4de3-94dc-a1a56d397ec5.JPG)
