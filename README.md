@@ -28,7 +28,5 @@
 </p>
 
 ![torredehanoi](https://user-images.githubusercontent.com/26144781/203435663-a62caa3b-c50c-4b81-ab8f-33fad5327212.png)
-<p align="center">
-  I'm an <strong>Torre de hanói</strong> Em HTML - JS - CSS <br />
-</p>
+Torre de hanói Em HTML - JS - CSS
 ![torredehanoi2](https://user-images.githubusercontent.com/26144781/203676560-365abbd3-0073-4de3-94dc-a1a56d397ec5.JPG)
