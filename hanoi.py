@@ -12,9 +12,14 @@ def hanoi():
             jogada = mova(n - 1, aux, destino, origem, jogada)
 
         return jogada
+    print (" --------------------------------------------------------")
     print(" ------ Trabalho matemática Torre de hanoi ----------- ")
-    n = int(input("<@_@>-- Quantidade de discos ? -- <(@_@)> \n -- Digite aqui -->"))
-    print(f"Solução do puzzle ({2 ** n - 1} jogadas): \n")
+    print (" --------------------------------------------------------")
+    n = int(input("<@_@>-- Quantidade de discos ? -- <(@_@)> \n         -- Digite aqui -->"))
+    print (" -------------------------")
+    print(f"Solução ({2 ** n - 1} Movimetações):")
+    print (" -------------------------")
+    
     mova(n, "1", "3", "2", 1)
 
 hanoi()

@@ -46,7 +46,7 @@ setInterval(()=>{
 render()
 
 function solve(size, fromtower,totower){
-    if(size== 1){
+    if(size == 1){
         return movements.unshift([fromtower,totower])
     }
     let other=3-fromtower-totower
