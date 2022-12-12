@@ -1,0 +1,13 @@
+> fibonacci <- function(x){
++ fib = c(1,1)
++ for (i in 3:x){
++   fib[i] = fib[i-1] + fib[i-2]
++ }
++ return(fib)
++ }
+> 
+> fibonacci(10)
+ [1]  1  1  2  3  5  8 13 21 34 55
+> save.image("C:\\Users\\Walisson\\Documents\\sequencia")
+> q()
+> 

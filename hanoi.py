@@ -22,4 +22,6 @@ def hanoi():
     
     mova(n, "1", "3", "2", 1)
 
+
+    
 hanoi()
